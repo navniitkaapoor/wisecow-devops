@@ -1,4 +1,5 @@
 # Cow wisdom web server
+# Lab by Navneet Kapoor
 
 ## Prerequisites
 
