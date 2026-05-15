@@ -1,5 +1,5 @@
 # Cow wisdom web server
-# Lab done by Navneet Kapoor
+# Lab done by Navneet Kapoor "DevOps is my passion"
 
 ## Prerequisites
 
